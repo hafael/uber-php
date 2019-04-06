@@ -1,6 +1,6 @@
 {
     "name": "hafael/uber-php",
-    "description": "A php client for consuming the Uber API (clone of stevenmaguire/uber-php) using guzzle v6",
+    "description": "A php client for consuming the Uber API (clone of stevenmaguire/uber-php) using guzzle:v6",
     "version": "1.0.0",
     "homepage" : "http://github.com/hafael/uber-php",
     "authors" : [
